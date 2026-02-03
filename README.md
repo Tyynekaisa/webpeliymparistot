@@ -10,3 +10,4 @@ Last updated: **2.2.2026**
 
 * Lesson 1: [WebXR](https://github.com/Tyynekaisa/webpeliymparistot/tree/main/Luento1)
 * Lesson 2: [Light, Material, Geometry, Import](https://github.com/Tyynekaisa/webpeliymparistot/tree/main/Luento2)
+* Lesson 3: [Hit Testing](https://github.com/Tyynekaisa/webpeliymparistot/tree/main/Luento3)
